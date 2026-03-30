@@ -21,9 +21,7 @@ data = {
     "Department":["Computer","IT","ENTC","Mechanical","Computer"],
     "CGPA":[8.2,7.5,9.1,6.8,8.7]
 }
-<img width="1117" height="791" alt="Screenshot 2026-03-30 105343" src="https://github.com/user-attachments/assets/3f2fe37c-5d3a-472a-8ef7-149edc61cb68" />
-<img width="1119" height="786" alt="Screenshot 2026-03-30 105422" src="https://github.com/user-attachments/assets/15240fc3-b3cd-49d6-af37-747fd65b7e8d" />
-<img width="1120" height="783" alt="Screenshot 2026-03-30 105455" src="https://github.com/user-attachments/assets/1e334d8b-a6d7-42ca-b458-b6a07eea389f" />
+
 
 df = pd.DataFrame(data)
 df.to_csv("students.csv", index=False)<img width="1117" height="791" alt="Screenshot 2026-03-30 105343" src="https://github.com/user-attachments/assets/59a6acda-c2a8-4a5f-b7f7-298827a22e30" />
@@ -119,6 +117,10 @@ Therefore we learn
 * Performing exploratory data analysis (EDA)
 * Identifying missing values and dataset structure
 using python
+
 Pandas provides powerful and efficient tools for handling structured data in Python.
 ## Refrence Images:
 
+<img width="1120" height="783" alt="Screenshot 2026-03-30 105455" src="https://github.com/user-attachments/assets/21d4873b-002f-42de-9e80-4c00b3a1b2f7" />
+<img width="1119" height="786" alt="Screenshot 2026-03-30 105422" src="https://github.com/user-attachments/assets/c86583a9-def6-44af-97c9-58f416b352bb" />
+<img width="1117" height="791" alt="Screenshot 2026-03-30 105343" src="https://github.com/user-attachments/assets/d75cdbe7-5854-4ea7-98eb-4122da739b45" />
